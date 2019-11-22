@@ -4,6 +4,7 @@
 
 ### macOS ###
 # General
+helloworld.txt
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -15,7 +16,6 @@ Icon
 ._*
 
 # Files that might appear in the root of a volume
-.helloworld.txt
 .fseventsd
 .Spotlight-V100
 .TemporaryItems
